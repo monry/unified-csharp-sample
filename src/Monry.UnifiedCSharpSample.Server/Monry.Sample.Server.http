@@ -1,0 +1,6 @@
+@Monry.Sample.Server_HostAddress = http://localhost:5021
+
+GET {{Monry.Sample.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
