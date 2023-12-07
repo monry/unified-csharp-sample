@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monry.UnifiedCSharpSample.Server", "Monry.UnifiedCSharpSample.Server\Monry.UnifiedCSharpSample.Server.csproj", "{4F0883F6-D065-4486-8C83-70DCE8D29677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monry.UnifiedCSharpSample.Model", "Monry.UnifiedCSharpSample.Model\Monry.UnifiedCSharpSample.Model.csproj", "{9FC06586-7DBB-40ED-B7D7-980B81BBCBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0883F6-D065-4486-8C83-70DCE8D29677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0883F6-D065-4486-8C83-70DCE8D29677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0883F6-D065-4486-8C83-70DCE8D29677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0883F6-D065-4486-8C83-70DCE8D29677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC06586-7DBB-40ED-B7D7-980B81BBCBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC06586-7DBB-40ED-B7D7-980B81BBCBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC06586-7DBB-40ED-B7D7-980B81BBCBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC06586-7DBB-40ED-B7D7-980B81BBCBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

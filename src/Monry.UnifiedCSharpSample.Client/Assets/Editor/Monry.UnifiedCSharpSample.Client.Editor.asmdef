@@ -1,0 +1,16 @@
+{
+    "name": "Monry.UnifiedCSharpSample.Client.Editor",
+    "rootNamespace": "Monry.UnifiedCSharpSample.Client.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
